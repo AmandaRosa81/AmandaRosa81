@@ -19,7 +19,7 @@
 
 ##
 
-<img align="right" alt="500" height="190px" src="stylegif.webp">
+<img align="right" alt="350px" height="200px" src="stylegif.webp">
 
 <h4 align="left">
   my language:
